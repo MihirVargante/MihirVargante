@@ -28,8 +28,8 @@ Linux | Windows | Docker | GitHub | Jira | Bitbucket | SVN
 
 ## 📊 GitHub Stats
 
-![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirvargante&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirvargante&layout=compact&theme=radical)
+![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MihirVargante&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MihirVargante&layout=compact&theme=radical)
 
 ---
 
