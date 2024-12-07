@@ -62,7 +62,6 @@ Linux | Windows | Docker | GitHub | Jira | Bitbucket | SVN
 ## 🌐 Let's Connect
 
 - 📫 **Email:** mihirvargante@gmail.com  
-- 📱 **Phone:** +91 9850777573  
 - 💼 [LinkedIn](https://linkedin.com/in/mihir-vargante/)  
 - 📂 [GitHub](https://github.com/mihirvargante)
 
